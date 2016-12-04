@@ -12,3 +12,7 @@ However, sometimes, you'll want to use it the other way around: Discourse users 
 4. Obviously, you can specify an alternative anchor like this: `[discourse_sso "Auth with my awesome discourse!"]``
 
 Done!
+
+#### License
+
+GPL2
